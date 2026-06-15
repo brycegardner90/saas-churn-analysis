@@ -7,6 +7,10 @@
 
 ---
 
+![SaaS Churn Analysis Dashboard](screenshots/saas-churn-analysis.png)
+
+---
+
 ## Overview
 
 In SaaS, churn is everything. A company losing more customers than it gains is a company in trouble — no matter how good the product is. This project analyzes 505,000+ customer records to identify who is churning, why, and what the business can do about it.
