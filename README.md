@@ -104,3 +104,13 @@ Built in Tableau Public with 5 views:
 - Churn Rate by Customer Tenure
 
 [**View the full interactive dashboard →**](https://public.tableau.com/app/profile/bryce.gardner/viz/SaaS_Churn/SaaSChurnAnalysis)
+
+---
+
+## SaaS Analytics Series
+
+| Project | Description | Tools | Dashboard |
+|---------|-------------|-------|-----------|
+| **01 — SaaS Churn Analysis** *(this project)* | Identifying who churns, why, and the revenue impact | Python · SQL · Tableau | [View](https://public.tableau.com/app/profile/bryce.gardner/viz/SaaS_Churn/SaaSChurnAnalysis) |
+| **02 — SaaS Sales Funnel Analysis** | Tracking the customer journey from lead to paid to churned | Python · SQL · Tableau | *Coming soon* |
+| **03 — MRR Growth & Cohort Analysis** | Monthly recurring revenue trends and customer cohort retention | Python · SQL · Tableau | *Coming soon* |
