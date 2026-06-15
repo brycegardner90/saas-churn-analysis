@@ -7,6 +7,13 @@
 
 ---
 
+## Data
+
+Raw data not included in this repo due to file size.  
+Download from Kaggle: [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
+
+---
+
 ![SaaS Churn Analysis Dashboard](screenshots/saas-churn-analysis.png)
 
 ---
