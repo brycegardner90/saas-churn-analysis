@@ -111,6 +111,6 @@ Built in Tableau Public with 5 views:
 
 | Project | Description | Tools | Dashboard | Code |
 |---------|-------------|-------|-----------|------|
-| **01 — SaaS Churn Analysis** | Identifying who churns, why, and the revenue impact | Python · SQL · Tableau | [View](https://public.tableau.com/app/profile/bryce.gardner/viz/SaaS_Churn/SaaSChurnAnalysis) | [GitHub]("(this project)") |
+| **01 — SaaS Churn Analysis** *(this project)* | Identifying who churns, why, and the revenue impact | Python · SQL · Tableau | [View](https://public.tableau.com/app/profile/bryce.gardner/viz/SaaS_Churn/SaaSChurnAnalysis) | [GitHub](https://github.com/brycegardner90/saas-churn-analysis) |
 | **02 — SaaS Sales Pipeline Analysis** | Win/loss patterns across channels, deal sizes, and technology lines | Python · SQL · Tableau | [View](https://public.tableau.com/app/profile/bryce.gardner/viz/SaaS_Sales_Funnel_Analysis/SaaSSalesFunnelAnalysis) | [GitHub](https://github.com/brycegardner90/saas_sales_pipeline_analysis) |
 | **03 — MRR Growth & Cohort Analysis** | Customer lifetime value and retention patterns by acquisition cohort | Python · SQL · Tableau | [View](https://public.tableau.com/app/profile/bryce.gardner/viz/MRRGrowthandCohortAnalysis/MRRGrowthandCohortAnalysis) | [GitHub](https://github.com/brycegardner90/mrr_growth_and-_cohort_analysis) |
